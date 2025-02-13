@@ -9,8 +9,6 @@ HTML
 
 CSS
 
-JAVA SCRIPT
-
 
 🚀 Deploy
 
@@ -42,4 +40,4 @@ Email: tanakaayane18@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/andressa-ayane-tanaka/
 
-Desenvolvido com ❤ por Andressa Ayane Tanaka
+Desenvolvido por Andressa Ayane Tanaka.
