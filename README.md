@@ -3,6 +3,9 @@
 Bem-vindo ao repositório do site do Peré Sushi, um site do restaurante delivery de comida japonesa. Este projeto tem como objetivo proporcionar uma experiência intuitiva e eficiente para os clientes visualizarem o cardápio, promoções e informações sobre o restaurante.
 
 
+📱 A versão mobile ainda está em fase de testes!
+
+
 ⚡ Tecnologias Utilizadas
 
 HTML
