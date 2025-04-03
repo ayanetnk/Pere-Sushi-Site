@@ -18,7 +18,7 @@ html, body{
 }
 
 .bg{
-    background: url('img/fundo/ koi.png');
+    background: url('img/fundo\ koi.png');
     background-size: cover;
     height: auto;
 }
@@ -44,7 +44,7 @@ html, body{
 }
 
 .logo{
-    background: url('img/LOGO/ PERE/ SUSHIii.png')no-repeat;
+    background: url('img/LOGO\ PERE\ SUSHIii.png')no-repeat;
     background-size: contain;
     width: 150px;
     height: 90px;
